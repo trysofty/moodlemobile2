@@ -36,6 +36,10 @@ $yellow:          #fbad1a; // Accent (never text).
 $yellow-light:    mix($yellow, white, 20%);
 $yellow-dark:     mix($yellow, black, 40%);
 
+$bgd:   	       #009688; // Accent (never text).
+$bgd-light:		   mix($bgd, white, 20%);
+$bgd-dark:         mix($bgd, black, 10%);
+
 // Change Ionic default colors.
 $dark: $black !default;
 $positive: $blue !default;
@@ -46,7 +50,7 @@ $stable: $gray-lighter !default;
 $royal: $orange !default;
 $calm: $turquoise !default;
 
-$mm-color:          $orange;
+$mm-color:          $bgd;
 $mm-color-light:    lighten($mm-color, 10%);
 $mm-color-dark:     darken($mm-color, 10%);
 
