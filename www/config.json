@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://zmozo.open360.org/vc/",
+    "siteurl": "https://zmozo.open360.org/vc/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://www.ballersgetdegrees.com/privacy-policy.html"
