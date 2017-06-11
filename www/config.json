@@ -1,6 +1,6 @@
 {
-    "app_id" : "com.bgd.bgdmobile",
-    "appname": "bgd Mobile",
+    "app_id" : "com.zmozo.zmozomobile",
+    "appname": "zmozo Mobile",
     "versioncode" : "6617",
     "versionname" : "1.0.0",
     "cache_expiration_time" : 300000,
@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://www.zmozo.com/vc",
+    "siteurl": "https://zmozo.open360.org/vc/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://www.ballersgetdegrees.com/privacy-policy.html"
