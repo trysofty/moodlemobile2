@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.zmozo.zmozomobile" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Zmozo Mobile</name>
-  <description>Official Zmozo Mobile app</description>
-  <author email="webadmin@zmozo.COM" href="http://zmozo.com">BGD</author>
+<widget id="com.BGD.BGDmobile" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>BGD Mobile</name>
+  <description>Official BGD Mobile app</description>
+  <author email="webadmin@bgd.open360.org" href="https://bgd.open360.org">BGD</author>
   <content src="index.html"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
