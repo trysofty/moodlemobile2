@@ -1,10 +1,10 @@
 {
   "name": "mm2",
   "version": "1.0.0",
-  "description": "Moodle Mobile 2: The official mobile app for Moodle.",
+  "description": "BGD Mobile: The official mobile app for BGD.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/moodlehq/moodlemobile2.git"
+    "url": "https://github.com/trysofty/moodlemobile2.git"
   },
   "license": "Apache-2.0",
   "licenses": [
